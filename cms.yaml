@@ -14,6 +14,6 @@
    - '--image'
    - 'gcr.io/app-mod-gebu-trainees/cmsshoppingcart:$COMMIT_SHA'
    - '--region'
-   - 'us-central1-a'
+   - 'us-central1'
  images:
  - 'gcr.io/app-mod-gebu-trainees/cmsshoppingcart:$COMMIT_SHA'
