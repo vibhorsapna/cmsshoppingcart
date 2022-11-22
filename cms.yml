@@ -10,7 +10,7 @@
    args:
    - 'run'
    - 'deploy'
-   - 'SERVICE-NAME'
+   - 'cmsshoppingcart'
    - '--image'
    - 'gcr.io/app-mod-gebu-trainees/cmsshoppingcart:$COMMIT_SHA'
    - '--region'
